@@ -10,7 +10,7 @@ Berrenur Saylam & Burak Suyunu
 ## Speakers and Topics
 
 ## 7 April 2022, 20.30 UTC+3h
-**__Local search heuristics and meta heuristics__** by Mehmet Akif Çördük 
+**_Local search heuristics and meta heuristics_** by Mehmet Akif Çördük 
 
 **Abstract:** Combinatorial optimization problems are NP-hard problems with very large search space. It is impractical to solve instances with exact methods. Heuristics and meta-heuristics are helpful to explore the search space efficiently and find good local minimums. In this talk, we will be exploring local search heuristics and meta heuristics with a focus on vehicle routing algorithms. We will also talk about parallelization strategies and show possible implementations on Cuda architecture.
 
