@@ -2,7 +2,9 @@
 
 This is bi-weekly seminar series from Ph.D. & Post-doctoral students. The idea is having knowledge about current topics in CS and AI.
 
-Meeting Room: https://boun-edu-tr.zoom.us/j/98859471318?pwd=c3AwOUx2ak5PQ2FTcFBrNkJzd3BIdz09 & Passcode: 269715
+**Meeting Room:** https://boun-edu-tr.zoom.us/j/98859471318?pwd=c3AwOUx2ak5PQ2FTcFBrNkJzd3BIdz09 
+
+**Passcode:** 269715
 
 ## Organizers
 
