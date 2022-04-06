@@ -2,6 +2,7 @@
 
 This is bi-weekly seminar series from Ph.D. & Post-doctoral students. The idea is having knowledge about current topics in CS and AI.
 
+[Meeting Room](https://boun-edu-tr.zoom.us/j/3172533975?pwd=R0laV1VFbXdjWXZEK0NySk1RR3R5dz09) & Passcode: 269715
 
 ## Organizers
 
@@ -9,7 +10,7 @@ Berrenur Saylam & Burak Suyunu
 
 ## Speakers and Topics
 
-### 7 April 2022, 20.30 UTC+3h  ([Meeting Room](https://boun-edu-tr.zoom.us/j/3172533975?pwd=R0laV1VFbXdjWXZEK0NySk1RR3R5dz09) & Passcode: 269715)
+### 7 April 2022, 20.30 UTC+3h  
 
 **_Local search heuristics and meta heuristics_** by Mehmet Akif Çördük 
 
