@@ -2,7 +2,10 @@
 
 This is bi-weekly seminar series from Ph.D. & Post-doctoral students. The idea is having knowledge about current topics in CS and AI.
 
-[Meeting Room](https://boun-edu-tr.zoom.us/j/3172533975?pwd=R0laV1VFbXdjWXZEK0NySk1RR3R5dz09) & Passcode: 269715
+**[Meeting Room](https://boun-edu-tr.zoom.us/j/3172533975?pwd=R0laV1VFbXdjWXZEK0NySk1RR3R5dz09) & Passcode: 269715**
+
+Join our [Slack](https://join.slack.com/t/aitalksworkspace/shared_invite/zt-16klccr77-TPxux9mRgfHMCMQ2MceJ~g) channel & 
+Join our [mail-list](https://groups.google.com/g/ai-talks-22)
 
 ## Organizers
 
