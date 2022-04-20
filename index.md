@@ -25,7 +25,9 @@ Berrenur Saylam & Burak Suyunu
 
 **_Behavioral Biometrics for User Authentication and Identification_** by Sümeyye Ağaç
 
+**Abstract:** Nowadays, mobile and wearable devices and technologies have become a part of our daily lives because of their commoditization and comfort. Traditional user authentication systems use passwords or PINs to protect user-sensitive data and provide a personalized user experience in several services (e.g., personal emails, banks, and social networking accounts) in such devices. For security reasons, these passwords must be unique for each service, and each password must be long enough and composed of different character types, making it difficult to remember. With the help of biometrics (biological metrics), we move from "something the user knows" to "something the user is". In this talk, we will discuss how systems can recognize their users based on the unique characteristics of them rather than relying on their knowledges. More precisely, we will concentrate on authentication and identification using behavioral biometrics (e.g., gait, keystroke dynamics), how they are used, their advantages and disadvantages, and, finally, give future directions on this topic.
 
+**Bio:** Sümeyye Ağaç received her BS and MS degrees in Computer Engineering from Galatasaray University, Turkey, in 2016 and 2019, respectively. Currently, she is a Ph.D. student in Computer Engineering department of Boğaziçi University in Turkey. Her current research interests are human activity recognition, wearable computing and user authentication.
 
 ### 12 May 2022
 
