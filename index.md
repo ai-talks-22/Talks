@@ -4,9 +4,9 @@ This is bi-weekly seminar series from Ph.D. & Post-doctoral students. The idea i
 
 **[Meeting Room](https://boun-edu-tr.zoom.us/j/98859471318?pwd=c3AwOUx2ak5PQ2FTcFBrNkJzd3BIdz09) & Passcode: 269715**
 
-Join our [Slack](https://join.slack.com/t/aitalksworkspace/shared_invite/zt-16klccr77-TPxux9mRgfHMCMQ2MceJ~g) channel & 
-Join our [mail-list](https://groups.google.com/g/ai-talks-22)
+Join our [Slack](https://join.slack.com/t/aitalksworkspace/shared_invite/zt-16klccr77-TPxux9mRgfHMCMQ2MceJ~g) channel & [mail-list](https://groups.google.com/g/ai-talks-22)
 
+Follow us from our [YouTube](https://www.youtube.com/channel/UCLMJDVgrLUB9qgge1glLKsQ) channel
 ## Organizers
 
 Berrenur Saylam & Burak Suyunu
