@@ -4,7 +4,7 @@ This is bi-weekly seminar series from Ph.D. & Post-doctoral students. The idea i
 
 **[Meeting Room](https://boun-edu-tr.zoom.us/j/98859471318?pwd=c3AwOUx2ak5PQ2FTcFBrNkJzd3BIdz09) & Passcode: 269715**
 
-Join our [Slack](https://join.slack.com/t/aitalksworkspace/shared_invite/zt-16klccr77-TPxux9mRgfHMCMQ2MceJ~g) channel & [mail-list](https://groups.google.com/g/ai-talks-22)
+Join our [Slack](https://join.slack.com/t/aitalksworkspace/shared_invite/zt-18ur59kv6-LpqbI1Aco13pPqAWptqIlA) channel & [mail-list](https://groups.google.com/g/ai-talks-22)
 
 Follow us from our [YouTube](https://www.youtube.com/channel/UCLMJDVgrLUB9qgge1glLKsQ) channel
 ## Organizers
@@ -29,6 +29,6 @@ Berrenur Saylam & Burak Suyunu
 
 **Bio:** Sümeyye Ağaç received her BS and MS degrees in Computer Engineering from Galatasaray University, Turkey, in 2016 and 2019, respectively. Currently, she is a Ph.D. student in Computer Engineering department of Boğaziçi University in Turkey. Her current research interests are human activity recognition, wearable computing and user authentication.
 
-### 12 May 2022
+### 26 May 2022
 
 TBA
