@@ -29,6 +29,14 @@ Berrenur Saylam & Burak Suyunu
 
 **Bio:** Sümeyye Ağaç received her BS and MS degrees in Computer Engineering from Galatasaray University, Turkey, in 2016 and 2019, respectively. Currently, she is a Ph.D. student in Computer Engineering department of Boğaziçi University in Turkey. Her current research interests are human activity recognition, wearable computing and user authentication.
 
-### 26 May 2022
+### 26 May 2022, 20.30 UTC+3h 
+
+**_Federated Learning and Applications_** by Cihat Keçeci
+
+**Abstract:**  Increasing amount of distributed and private data enables the training of sophisticated machine learning models. Conventional machine learning models generally need a centralized dataset for training the model. However, the data may be distributed among different users, and it may not be possible to collect the dataset into a centralized machine due to privacy or other requirements. Federated Learning enables distributed training of machine learning models by sharing only the model parameters through a central server while keeping the client data private. In this talk, we will provide an introduction to Federated Learning by examining the common problems in the Federated Learning scenarios with the proposed solutions.
+
+**Bio:** Cihat Keçeci received his B.S. (Hons.) and M.S. degrees in electrical and electronics engineering from Boğaziçi University, İstanbul, Turkey. He was with the Scientific and Technological Research Council of Turkey TÜBİTAK, Informatics and Information Security Research Center (BİLGEM). He is currently pursuing his Ph.D. degree in electrical and computer engineering with Texas A&M University, College Station, TX, USA. His research interests include machine learning, smart grids, and wireless communications.
+
+### 9 June 2022
 
 TBA
