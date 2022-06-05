@@ -37,6 +37,14 @@ Berrenur Saylam & Burak Suyunu
 
 **Bio:** Cihat Keçeci received his B.S. (Hons.) and M.S. degrees in electrical and electronics engineering from Boğaziçi University, İstanbul, Turkey. He was with the Scientific and Technological Research Council of Turkey TÜBİTAK, Informatics and Information Security Research Center (BİLGEM). He is currently pursuing his Ph.D. degree in electrical and computer engineering with Texas A&M University, College Station, TX, USA. His research interests include machine learning, smart grids, and wireless communications.
 
-### 9 June 2022
+### 9 June 2022, 20.30 UTC+3h 
+
+**_The Hitchhiker's Guide to the Computational Genomics_** by Hakime Öztürk
+
+**Abstract:** Technological advances in genomics have led to a rapid growth of biological data from large numbers of samples. The application of modern machine learning methods, such as deep learning, allows utilizing these very large data sets to find hidden structure within them and to make accurate predictions. In this talk, we first provide a background on various genomics research questions and then discuss some of the current research papers on the application of deep learning methodologies that aim to address these. 
+
+**Bio:** Hakime Öztürk is currently a post-doctoral researcher at German Cancer Research Center (DKFZ).  She received her Ph.D. in Computer Engineering from Bogazici University in 2019. Her research interests include application of machine learning methodologies to biological problems. 
+
+### 23 June 2022
 
 TBA
