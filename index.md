@@ -43,7 +43,7 @@ Berrenur Saylam & Burak Suyunu
 
 **Abstract:** Technological advances in genomics have led to a rapid growth of biological data from large numbers of samples. The application of modern machine learning methods, such as deep learning, allows utilizing these very large data sets to find hidden structure within them and to make accurate predictions. In this talk, we first provide a background on various genomics research questions and then discuss some of the current research papers on the application of deep learning methodologies that aim to address these. 
 
-**Bio:** Hakime Öztürk is currently a post-doctoral researcher at German Cancer Research Center (DKFZ).  She received her Ph.D. in Computer Engineering from Bogazici University in 2019. Her research interests include application of machine learning methodologies to biological problems. 
+**Bio:** Hakime Öztürk is currently a post-doctoral researcher at German Cancer Research Center (DKFZ).  She received her Ph.D. in Computer Engineering from Boğaziçi University in 2019. Her research interests include application of machine learning methodologies to biological problems. 
 
 ### 23 June 2022
 
@@ -51,7 +51,7 @@ Berrenur Saylam & Burak Suyunu
 
 **Abstract:** Testing is a promising way to gain trust in a learned action policy, in particular if the policy is a neural network. A ''bug'' in this context constitutes undesirable or fatal policy behavior, for example, satisfying a failure condition. But how do we distinguish whether such behavior is due to bad policy decisions, or whether it is actually unavoidable under the given circumstances? This requires knowledge about optimal solutions, which defeats the scalability of testing. Related problems occur in software testing when the correct program output is not known.  Metamorphic testing addresses this issue through metamorphic relations, specifying how a given change to the input should affect the output, thus providing an oracle for the correct output. Yet, how do we obtain such metamorphic relations for action policies?  Here, we show that the well explored concept of relaxations in the Artificial Intelligence community can serve this purpose. We also design fuzzing strategies for test-case generation. In experiments on three single-agent games, our technology is able to effectively identify true bugs, i.e., avoidable failures of the policy under test, which has not been possible until now.
 
-**Bio:** I am a third year Ph.D. student at MPI-SWS in Germany. Broadly, I work in the intersection of software testing/verification and artificial intelligence. I develop testing and verification techniques to ensure the dependability of AI-enabled systems. I am advised by Dr. Maria Christakis and work in the "Practical Formal Methods" group at MPI-SWS. I graduated from Bogazici University in 2017 with a M.Sc. in computer science. Before that, I did my B.Sc. studies in computer science at the same university.
+**Bio:** I am a third year Ph.D. student at MPI-SWS in Germany. Broadly, I work in the intersection of software testing/verification and artificial intelligence. I develop testing and verification techniques to ensure the dependability of AI-enabled systems. I am advised by Dr. Maria Christakis and work in the "Practical Formal Methods" group at MPI-SWS. I graduated from Boğaziçi University in 2017 with a M.Sc. in computer science. Before that, I did my B.Sc. studies in computer science at the same university.
 
 ### 7 July 2022
 
