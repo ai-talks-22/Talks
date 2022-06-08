@@ -47,4 +47,12 @@ Berrenur Saylam & Burak Suyunu
 
 ### 23 June 2022
 
+**_Metamorphic Relations via Relaxations: An Approach to Obtain Oracles for Action-Policy Testing_** by Hasan Ferit Enişer
+
+**Abstract:** Testing is a promising way to gain trust in a learned action policy, in particular if the policy is a neural network. A ''bug'' in this context constitutes undesirable or fatal policy behavior, for example, satisfying a failure condition. But how do we distinguish whether such behavior is due to bad policy decisions, or whether it is actually unavoidable under the given circumstances? This requires knowledge about optimal solutions, which defeats the scalability of testing. Related problems occur in software testing when the correct program output is not known.  Metamorphic testing addresses this issue through metamorphic relations, specifying how a given change to the input should affect the output, thus providing an oracle for the correct output. Yet, how do we obtain such metamorphic relations for action policies?  Here, we show that the well explored concept of relaxations in the Artificial Intelligence community can serve this purpose. We also design fuzzing strategies for test-case generation. In experiments on three single-agent games, our technology is able to effectively identify true bugs, i.e., avoidable failures of the policy under test, which has not been possible until now.
+
+**Bio:** I am a third year Ph.D. student at MPI-SWS in Germany. Broadly, I work in the intersection of software testing/verification and artificial intelligence. I develop testing and verification techniques to ensure the dependability of AI-enabled systems. I am advised by Dr. Maria Christakis and work in the "Practical Formal Methods" group at MPI-SWS. I graduated from Bogazici University in 2017 with a M.Sc. in computer science. Before that, I did my B.Sc. studies in computer science at the same university.
+
+### 7 July 2022
+
 TBA
