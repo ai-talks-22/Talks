@@ -37,7 +37,7 @@ Berrenur Saylam & Burak Suyunu
 
 **Bio:** Cihat Keçeci received his B.S. (Hons.) and M.S. degrees in electrical and electronics engineering from Boğaziçi University, İstanbul, Turkey. He was with the Scientific and Technological Research Council of Turkey TÜBİTAK, Informatics and Information Security Research Center (BİLGEM). He is currently pursuing his Ph.D. degree in electrical and computer engineering with Texas A&M University, College Station, TX, USA. His research interests include machine learning, smart grids, and wireless communications.
 
-### 9 June 2022, 20.30 UTC+3h 
+### 16 June 2022, 20.30 UTC+3h 
 
 **_The Hitchhiker's Guide to the Computational Genomics_** by Hakime Öztürk
 
