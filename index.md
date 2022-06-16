@@ -45,7 +45,7 @@ Berrenur Saylam & Burak Suyunu
 
 **Bio:** Hakime Öztürk is currently a post-doctoral researcher at German Cancer Research Center (DKFZ).  She received her Ph.D. in Computer Engineering from Boğaziçi University in 2019. Her research interests include application of machine learning methodologies to biological problems. 
 
-### 23 June 2022
+### 30 June 2022, 19.00 UTC+3h 
 
 **_Metamorphic Relations via Relaxations: An Approach to Obtain Oracles for Action-Policy Testing_** by Hasan Ferit Enişer
 
@@ -53,6 +53,6 @@ Berrenur Saylam & Burak Suyunu
 
 **Bio:** I am a third year Ph.D. student at MPI-SWS in Germany. Broadly, I work in the intersection of software testing/verification and artificial intelligence. I develop testing and verification techniques to ensure the dependability of AI-enabled systems. I am advised by Dr. Maria Christakis and work in the "Practical Formal Methods" group at MPI-SWS. I graduated from Boğaziçi University in 2017 with a M.Sc. in computer science. Before that, I did my B.Sc. studies in computer science at the same university.
 
-### 7 July 2022
+### 14 July 2022
 
 TBA
