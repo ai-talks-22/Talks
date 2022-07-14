@@ -1,4 +1,4 @@
-## AI Talks
+## CS and AI Talks
 
 This is bi-weekly seminar series from Ph.D. & Post-doctoral students. The idea is having knowledge about current topics in CS and AI.
 
