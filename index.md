@@ -53,6 +53,6 @@ Berrenur Saylam & Burak Suyunu
 
 **Bio:** I am a third year Ph.D. student at MPI-SWS in Germany. Broadly, I work in the intersection of software testing/verification and artificial intelligence. I develop testing and verification techniques to ensure the dependability of AI-enabled systems. I am advised by Dr. Maria Christakis and work in the "Practical Formal Methods" group at MPI-SWS. I graduated from Boğaziçi University in 2017 with a M.Sc. in computer science. Before that, I did my B.Sc. studies in computer science at the same university.
 
-### 14 July 2022
+### 21 July 2022
 
 TBA
