@@ -55,7 +55,7 @@ Berrenur Saylam & Burak Suyunu
 
 ### 21 July 2022
 
-**_Topic Modeling_** by Burak Suyunu
+**_Topic Modeling: Clustering with Labels_** by Burak Suyunu, 20.30 UTC+3h 
 
 **Abstract:** Topic models are often used to organize and interpret large and unstructured corpora of text documents. They try to explain the topics that constitute the semantic infrastructure of the document sets and try to find the distributions of these topics for the documents. Because of its unsupervised nature, the outputs of a topic model has to be interpretable to represent its success. However, the results of a topic model are usually weakly correlated with human interpretation. 
 
