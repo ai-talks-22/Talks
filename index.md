@@ -53,9 +53,9 @@ Berrenur Saylam & Burak Suyunu
 
 **Bio:** I am a third year Ph.D. student at MPI-SWS in Germany. Broadly, I work in the intersection of software testing/verification and artificial intelligence. I develop testing and verification techniques to ensure the dependability of AI-enabled systems. I am advised by Dr. Maria Christakis and work in the "Practical Formal Methods" group at MPI-SWS. I graduated from Boğaziçi University in 2017 with a M.Sc. in computer science. Before that, I did my B.Sc. studies in computer science at the same university.
 
-### 21 July 2022
+### 21 July 2022, 20.30 UTC+3h 
 
-**_Topic Modeling: Clustering with Labels_** by Burak Suyunu, 20.30 UTC+3h 
+**_Topic Modeling: Clustering with Labels_** by Burak Suyunu
 
 **Abstract:** Topic models are often used to organize and interpret large and unstructured corpora of text documents. They try to explain the topics that constitute the semantic infrastructure of the document sets and try to find the distributions of these topics for the documents. Because of its unsupervised nature, the outputs of a topic model has to be interpretable to represent its success. However, the results of a topic model are usually weakly correlated with human interpretation. 
 
