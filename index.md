@@ -55,4 +55,15 @@ Berrenur Saylam & Burak Suyunu
 
 ### 21 July 2022
 
+**_Topic Modeling_** by Burak Suyunu
+
+**Abstract:** Topic models are often used to organize and interpret large and unstructured corpora of text documents. They try to explain the topics that constitute the semantic infrastructure of the document sets and try to find the distributions of these topics for the documents. Because of its unsupervised nature, the outputs of a topic model has to be interpretable to represent its success. However, the results of a topic model are usually weakly correlated with human interpretation. 
+
+In this talk, we will first provide a background on how topic models work and explain traditional topic modeling approaches such as NMF, LSA and LDA. Then we will present a semisupervised topic model called Theme Supervised Nonnegative Matrix Factorization that can benefit from labeled documents to improve and facilitate the interpretation of the topics. We will finish the talk with the recent topic models such as BERTopic and Top2Vec that utilizes word embeddings, language models, dimensionality reduction and clustering techiques.
+
+**Bio:** Burak Suyunu received his B.S. and M.S. degrees in computer engineering from Boğaziçi University. Currently while pursuing his Ph.D. in computer engineering, he works as a teaching assistant in Boğaziçi University. His research interests include bioinformatics, NLP and machine learning.
+
+### 4 August 2022
+
 TBA
+
