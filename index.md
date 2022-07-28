@@ -53,7 +53,7 @@ Berrenur Saylam & Burak Suyunu
 
 **Bio:** I am a third year Ph.D. student at MPI-SWS in Germany. Broadly, I work in the intersection of software testing/verification and artificial intelligence. I develop testing and verification techniques to ensure the dependability of AI-enabled systems. I am advised by Dr. Maria Christakis and work in the "Practical Formal Methods" group at MPI-SWS. I graduated from Boğaziçi University in 2017 with a M.Sc. in computer science. Before that, I did my B.Sc. studies in computer science at the same university.
 
-### TBA
+### TBA (1st week of the October)
 
 **_Topic Modeling: Clustering with Labels_** by Burak Suyunu
 
@@ -63,7 +63,5 @@ In this talk, we will first provide a background on how topic models work and ex
 
 **Bio:** Burak Suyunu received his B.S. and M.S. degrees in computer engineering from Boğaziçi University. Currently while pursuing his Ph.D. in computer engineering, he works as a teaching assistant in Boğaziçi University. His research interests include bioinformatics, NLP and machine learning.
 
-### 4 August 2022
 
-TBA
 
