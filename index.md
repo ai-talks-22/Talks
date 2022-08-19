@@ -53,6 +53,18 @@ Berrenur Saylam & Burak Suyunu
 
 **Bio:** I am a third year Ph.D. student at MPI-SWS in Germany. Broadly, I work in the intersection of software testing/verification and artificial intelligence. I develop testing and verification techniques to ensure the dependability of AI-enabled systems. I am advised by Dr. Maria Christakis and work in the "Practical Formal Methods" group at MPI-SWS. I graduated from Boğaziçi University in 2017 with a M.Sc. in computer science. Before that, I did my B.Sc. studies in computer science at the same university.
 
+### TBA (1st week of the September)
+
+**_Multiplicity in the Partitioning of Signed Graphs_** by Nejat Arınık
+
+**Abstract:** According to the structural balance theory, a signed graph is considered structurally balanced when it can be partitioned into a number of modules such that positive edges are located inside the modules and negatives ones are in-between them. In practice, real-world networks are rarely perfectly balanced. When it is not the case, one wants to measure the magnitude of the imbalance and to identify the set of edges related to the network imbalance. The Correlation Clustering (CC) problem is precisely defined as finding the partition with minimal imbalance.
+
+Signed graph partitioning is an important task, which has many applications, as finding a balanced partition helps understanding the system modeled by the graph. However, the standard approach used in the literature is to find a single partition and focus the rest of the analysis on it, as if it was sufficient to fully characterize the studied system. Yet, it may not reflect the meso-structure of the network, and one may need to seek for other partitions to build a better picture. Although this need to look for multiplicity is extremely important from the end user's perspective, only a very few works took it into consideration in their analysis, up to now.
+
+One particular situation, where we want to relax this traditional single-partition assumption to allow searching for multiple partitions, arises in the context of the CC problem. When solving an instance of such problem, several or even many optimal partitions may coexist. If multiple optimal partitions coexist, one can then wonder how different/diverse they are. Put differently, we want to know what we loose when considering only one partition, while there might be multiple ones. In order to answer these questions, one should ideally enumerate completely the space of optimal partitions, and perform its analysis. To this end, we propose a new efficient solution space enumeration method and a cluster analysis-based framework in order to first enumerate the space of optimal partitions and then empirically study such space. Based on our empirical study, our main finding is the identification of 4 different situations: 1) unique solution; 2) single class of similar solutions; 3) several classes of similar solutions; 4) multiple solutions without a clear clustering structure.
+
+**Bio:** Nejat Arınık is currently a post-doctoral researcher at TETIS in Montpellier in France. He received his Ph.D. in Computer Science from Avignon University in France in 2021. Before his Ph.D., he received his B.S. and M.S. degrees in computer engineering from Galatasaray University and INSA Lyon, respectively. His current research interests include data mining, complex network analysis, and operations research.
+
 ### TBA (1st week of the October)
 
 **_Topic Modeling: Clustering with Labels_** by Burak Suyunu
