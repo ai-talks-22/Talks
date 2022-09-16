@@ -65,7 +65,16 @@ One particular situation, where we want to relax this traditional single-partiti
 
 **Bio:** Nejat Arınık is currently a post-doctoral researcher at TETIS in Montpellier in France. He received his Ph.D. in Computer Science from Avignon University in France in 2021. Before his Ph.D., he received his B.S. and M.S. degrees in computer engineering from Galatasaray University and INSA Lyon, respectively. His current research interests include data mining, complex network analysis, and operations research.
 
-### TBA (1st week of the October)
+### 23 September 2022, 21.00 UTC+3h, [Poster](https://raw.githubusercontent.com/ai-talks-22/Talks/main/images/23Sept22.png)
+
+**_Wearable Computing for Health_** by Berrenur Saylam
+
+**Abstract:** Wearable devices have become part of daily lives because of their low cost, small size, and computational power. They provide continuous measurements of physiological changes in the human body. While it is possible to extract knowledge about activity recognition, it is also possible to detect changes and measure behaviors, thoughts, and feelings based on the body's response to those conditions. This talk will introduce the topic with current possible application domains and share case study results. 
+
+**Bio:** Berrenur Saylam is currently a Ph.D. student in Computer Engineering department at Boğaziçi University. She received B.S. in Computer Engineering and Industrial Engineering from Galatasaray University and M.S. in Computer Engineering from ENS de Lyon and Galatasaray University. Her research interests include wearable computing, machine learning, and federated learning.
+
+
+### 7 October 2022, 21.00 UTC+3h, [Poster](https://raw.githubusercontent.com/ai-talks-22/Talks/main/images/7Oct22.png)
 
 **_Topic Modeling: Clustering with Labels_** by Burak Suyunu
 
@@ -76,4 +85,4 @@ In this talk, we will first provide a background on how topic models work and ex
 **Bio:** Burak Suyunu received his B.S. and M.S. degrees in computer engineering from Boğaziçi University. Currently while pursuing his Ph.D. in computer engineering, he works as a teaching assistant in Boğaziçi University. His research interests include bioinformatics, NLP and machine learning.
 
 
-
+### TBA
