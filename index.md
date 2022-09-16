@@ -7,6 +7,9 @@ This is bi-weekly seminar series from Ph.D. & Post-doctoral students. The idea i
 Join our [Slack](https://join.slack.com/t/aitalksworkspace/shared_invite/zt-1fefa7b0g-AjVmSonFsFjCEPyriTcOFw) channel & [mail-list](https://groups.google.com/g/ai-talks-22)
 
 Follow us from our [YouTube](https://www.youtube.com/channel/UCLMJDVgrLUB9qgge1glLKsQ) channel and [Twitter](https://twitter.com/CSandAI_Talks)
+
+[Application form](https://docs.google.com/forms/d/e/1FAIpQLSc0cwj1wLbkYCgh3zUWnzqGqSCegue6WjPQXSsjFMewbqc_uw/viewform?usp=sf_link)
+
 ## Organizers
 
 Berrenur Saylam & Burak Suyunu
