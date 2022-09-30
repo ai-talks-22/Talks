@@ -68,7 +68,7 @@ One particular situation, where we want to relax this traditional single-partiti
 
 **Bio:** Nejat Arınık is currently a post-doctoral researcher at TETIS in Montpellier in France. He received his Ph.D. in Computer Science from Avignon University in France in 2021. Before his Ph.D., he received his B.S. and M.S. degrees in computer engineering from Galatasaray University and INSA Lyon, respectively. His current research interests include data mining, complex network analysis, and operations research.
 
-### 23 September 2022, 21.00 UTC+3h, [Poster](https://raw.githubusercontent.com/ai-talks-22/Talks/main/images/23Sept22.png)
+### 30 September 2022, 21.00 UTC+3h, [Poster](https://raw.githubusercontent.com/ai-talks-22/Talks/main/images/30Sept22.png)
 
 **_Wearable Computing for Health_** by Berrenur Saylam
 
@@ -77,7 +77,7 @@ One particular situation, where we want to relax this traditional single-partiti
 **Bio:** Berrenur Saylam is currently a Ph.D. student in Computer Engineering department at Boğaziçi University. She received B.S. in Computer Engineering and Industrial Engineering from Galatasaray University and M.S. in Computer Engineering from ENS de Lyon and Galatasaray University. Her research interests include wearable computing, machine learning, and federated learning.
 
 
-### 7 October 2022, 21.00 UTC+3h, [Poster](https://raw.githubusercontent.com/ai-talks-22/Talks/main/images/7Oct22.png)
+### 14 October 2022, 21.00 UTC+3h, [Poster](https://raw.githubusercontent.com/ai-talks-22/Talks/main/images/14Oct22.png)
 
 **_Topic Modeling: Clustering with Labels_** by Burak Suyunu
 
