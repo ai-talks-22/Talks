@@ -68,7 +68,7 @@ One particular situation, where we want to relax this traditional single-partiti
 
 **Bio:** Nejat Arınık is currently a post-doctoral researcher at TETIS in Montpellier in France. He received his Ph.D. in Computer Science from Avignon University in France in 2021. Before his Ph.D., he received his B.S. and M.S. degrees in computer engineering from Galatasaray University and INSA Lyon, respectively. His current research interests include data mining, complex network analysis, and operations research.
 
-### 5 October 2022, 21.00 UTC+3h, [Poster](https://raw.githubusercontent.com/ai-talks-22/Talks/main/images/5Sept2022.png) 
+### 5 October 2022, 21.00 UTC+3h, [Poster](https://raw.githubusercontent.com/ai-talks-22/Talks/main/images/5Oct2022.png) 
 
 **_Wearable Computing for Health_** by Berrenur Saylam
 
