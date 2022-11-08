@@ -88,4 +88,13 @@ In this talk, we will first provide a background on how topic models work and ex
 **Bio:** Burak Suyunu received his B.S. and M.S. degrees in computer engineering from Boğaziçi University. Currently while pursuing his Ph.D. in computer engineering, he works as a teaching assistant in Boğaziçi University. His research interests include bioinformatics, NLP and machine learning.
 
 
+### 11 November 2022, 19.00 UTC+3h, [Poster](https://raw.githubusercontent.com/ai-talks-22/Talks/main/images/11Nov22.png)
+
+**_A Semi-supervised Dependency Parsing Approach for Low-resource Languages_** by Şaziye Betül Özateş
+
+**Abstract:** Code-switching dependency parsing stands as a challenging task due to both the scarcity of necessary resources and the structural difficulties embedded in code-switched languages. In this talk, we present novel sequence labeling models to be used as auxiliary tasks for dependency parsing of code-switched text in a semi-supervised scheme. We then discuss how auxiliary task usage enhances the performance of an LSTM-based dependency parsing model and compare its success with that of an XLM-R-based model with significantly more computational and space complexity.
+
+**Bio:** Şaziye Betül Özateş is a computer scientist who specializes in natural language processing and machine learning. She completed her B.S. and M.S. studies in 2012 and 2014 in the Computer Engineering Department at Boğaziçi University where she was also a member of TABILAB. She recently received her Ph.D. degree under the guidance of Prof. Arzucan Özgür and Prof. Tunga Güngör in computer engineering from Boğaziçi University. From 2020 to 2022, she was a researcher in the Institute of Natural Language Processing at the University of Stuttgart. Her research focuses on improving automatic processing of low-resource natural languages with the help of various deep learning methods. Currently, she continues her research at KUIS-AI Center as a post-doctoral research fellow.
+
+
 ### TBA
