@@ -96,5 +96,12 @@ In this talk, we will first provide a background on how topic models work and ex
 
 **Bio:** Şaziye Betül Özateş is a computer scientist who specializes in natural language processing and machine learning. She completed her B.S. and M.S. studies in 2012 and 2014 in the Computer Engineering Department at Boğaziçi University where she was also a member of TABILAB. She recently received her Ph.D. degree under the guidance of Prof. Arzucan Özgür and Prof. Tunga Güngör in computer engineering from Boğaziçi University. From 2020 to 2022, she was a researcher in the Institute of Natural Language Processing at the University of Stuttgart. Her research focuses on improving automatic processing of low-resource natural languages with the help of various deep learning methods. Currently, she continues her research at KUIS-AI Center as a post-doctoral research fellow.
 
+### 25 November 2022, 21.00 UTC+3h, [Poster](https://raw.githubusercontent.com/ai-talks-22/Talks/main/images/25Nov22.png)
+
+**_Detecting Suicidal Ideation on Forums_** by Ahmet Emre Aladağ
+
+**Abstract:** Some people with suicidal ideation express their intentions on online platforms such as Twitter, Facebook or Reddit. In this talk, we’ll be exploring how we can utilize Text Mining and Machine Learning methods to predict potential suicidal ideation. Such a prediction system may allow providing prompt support before it becomes too late for the person with suicidal ideation.
+
+**Bio:** Emre is a PhD candidate in Boğaziçi University Computer Science Department. He works on predicting psychological attributes from user-generated data. He is interested in Text Mining, Machine Learning and Computational Social Science.
 
 ### TBA
