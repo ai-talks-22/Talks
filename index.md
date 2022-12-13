@@ -107,7 +107,7 @@ In this talk, we will first provide a background on how topic models work and ex
 
 ### 15 December 2022, 19.00 UTC+3h, [Poster](https://raw.githubusercontent.com/ai-talks-22/Talks/main/images/15Dec22.png)
 
-**_Targeted Drug Design: A Language-based Approach_** by Gökçe Uludağ
+**_Targeted Drug Design: A Language-based Approach_** by Gökçe Uludoğan
 
 **Abstract:** The development of novel compounds targeting proteins of interest is one of the most important tasks in the pharmaceutical industry. Recently, deep generative models have been applied to targeted molecular design and have shown promising results. In this talk, we will present a language based formulation to target specific drug design and a deep generative model exploiting pretrained biochemical language models.
 
