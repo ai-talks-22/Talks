@@ -121,4 +121,7 @@ In this talk, we will first provide a background on how topic models work and ex
 
 **Bio:** In 2006, Handan Güler graduated from the Boğaziçi University Civil Engineering Undergraduate Program, and in 2010, received M.Sc. in Building/Architectural Engineering from Politecnico di Milano. In addition, she completed a non-thesis master's program in Construction Management at Boğaziçi University in 2017. She is currently a Ph.D. student in the Civil Engineering Department at Boğaziçi University. Her research focuses on construction disputes and prediction of dispute occurence using Machine Learning and Deep Learning techniques. Furthermore, she has been working professionally since 2011, and she is currently the Assistant Contract Manager in the Marmaray Project.
 
+### 23 January 2023, 21.00 UTC+3h
+
+
 ### TBA
