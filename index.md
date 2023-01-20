@@ -125,7 +125,7 @@ In this talk, we will first provide a background on how topic models work and ex
 
 **_A Local Search Approach To Boolean Satisfiability Problems: WalkSAT_** by Mehmet Akif Çördük 
 
-**Abstract:**
+**Abstract:** In this talk, we will be discussing the NP-complete Boolean Satisfiability(SAT) problems. We will briefly introduce and compare different type of approaches such as DPLL, CDCL(conflict driven clause learning) and WalkSAT. We will discuss the implementation details of WalkSAT algorithm and discuss its advantages.
 
 **Bio:** Akif is an alumni of Boğaziçi University. He is part of the Developer Technology Engineering team of NVIDIA Europe, Middle East, and Africa. Previously, he wrote his master's thesis on GPU-based pricing engines, and later continued working on the same topic. Akif has a background in computer engineering and software engineering. He's interested in parallel algorithms, GPU performance optimization, and combinatorial optimization.
 
