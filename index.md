@@ -121,7 +121,15 @@ In this talk, we will first provide a background on how topic models work and ex
 
 **Bio:** In 2006, Handan Güler graduated from the Boğaziçi University Civil Engineering Undergraduate Program, and in 2010, received M.Sc. in Building/Architectural Engineering from Politecnico di Milano. In addition, she completed a non-thesis master's program in Construction Management at Boğaziçi University in 2017. She is currently a Ph.D. student in the Civil Engineering Department at Boğaziçi University. Her research focuses on construction disputes and prediction of dispute occurence using Machine Learning and Deep Learning techniques. Furthermore, she has been working professionally since 2011, and she is currently the Assistant Contract Manager in the Marmaray Project.
 
-### 23 January 2023, 21.00 UTC+3h
+### 25 January 2023, 21.00 UTC+3h, [Poster](https://raw.githubusercontent.com/ai-talks-22/Talks/main/images/25Jan23.png)
+
+**_A Local Search Approach To Boolean Satisfiability Problems: WalkSAT_** by Mehmet Akif Çördük 
+
+**Abstract:**
+
+**Bio:** Akif is an alumni of Boğaziçi University. He is part of the Developer Technology Engineering team of NVIDIA Europe, Middle East, and Africa. Previously, he wrote his master's thesis on GPU-based pricing engines, and later continued working on the same topic. Akif has a background in computer engineering and software engineering. He's interested in parallel algorithms, GPU performance optimization, and combinatorial optimization.
+
+
 
 
 ### TBA
