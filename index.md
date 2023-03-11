@@ -1,6 +1,6 @@
 ## CS and AI Talks
 
-This is bi-weekly seminar series from Ph.D. & Post-doctoral students. The idea is having knowledge about current topics in CS and AI.
+This is bi-weekly seminar series from Ph.D. & Post-doctoral students. The idea is to know about current topics in CS and AI. It is open to anyone who wants to listen to a presentation and give a speech in the world as far as there is a relation with CS. 
 
 **[Meeting Room](https://boun-edu-tr.zoom.us/j/99847037864?pwd=M3FublJnSWNyaVlVMjdJbGhFN0QvQT09) & Passcode: 998529**
 
@@ -8,7 +8,7 @@ Join our [Slack](https://join.slack.com/t/aitalksworkspace/shared_invite/zt-1mhx
 
 Follow us from our [YouTube](https://www.youtube.com/channel/UCLMJDVgrLUB9qgge1glLKsQ) channel and [Twitter](https://twitter.com/CSandAI_Talks)
 
-[Application form](https://docs.google.com/forms/d/e/1FAIpQLSc0cwj1wLbkYCgh3zUWnzqGqSCegue6WjPQXSsjFMewbqc_uw/viewform?usp=sf_link)
+[Speaker Application form](https://docs.google.com/forms/d/e/1FAIpQLSc0cwj1wLbkYCgh3zUWnzqGqSCegue6WjPQXSsjFMewbqc_uw/viewform?usp=sf_link)
 
 ## Organizers
 
@@ -130,6 +130,15 @@ In this talk, we will first provide a background on how topic models work and ex
 **Bio:** Akif is an alumni of Boğaziçi University. He is part of the Developer Technology Engineering team of NVIDIA Europe, Middle East, and Africa. Previously, he wrote his master's thesis on GPU-based pricing engines, and later continued working on the same topic. Akif has a background in computer engineering and software engineering. He's interested in parallel algorithms, GPU performance optimization, and combinatorial optimization.
 
 
+### Our meetings were postponed due to the Kahramanmaraş centered earthquakes that took place on February 6. 
+
+### 29 March 2023, 19.00 UTC+3h, [Poster](https://raw.githubusercontent.com/ai-talks-22/Talks/main/images/29Mar23.png)
+
+**_The Lawful Use of Data in Machine Learning_** by Osman Gazi Güçlütürk 
+
+**Abstract:** Training machine learning models requires processing large datasets of different types. Depending on the type of a given data point in a dataset or the jurisdiction in which the model will be used, the applicable legal framework changes. Models requiring text-based or image-based inputs, such as ChatGPT and Dall.E, could raise concerns in terms of copyright law, whereas profiling models could violate privacy and/or personal data protection rules. Given the highly fractioned and complex nature of our current regulatory framework and the cross-border nature of data transfers in machine learning applications, it is impossible to exhaustively map every type of data and the applicable legal framework thereto. Such an analysis should be made on a case-by-case basis. Still, there are some general legal frameworks that should be taken into account in almost all applications. In this talk, we will explore some of these generally applicable rules under Turkish law in an attempt to assess whether and under what conditions a given piece of data can be used lawfully to train machine learning models.
+
+**Bio:** Osman Gazi Güçlütürk graduated from Galatasaray University, Faculty of Law in 2014. Subsequently, he obtained his M.A. from Ankara University, LL.M. from LSE, and MJur from the University of Oxford, in respective order. In 2021, Dr. Güçlütürk completed his Ph.D. from Galatasaray University with his thesis on the lawful use of data in machine learning-based artificial intelligence systems. Dr. Güçlütürk is currently working as an Assistant Professor of IT Law at Boğaziçi University, Faculty of Law, and as Visiting Fellow at Yale Law School’s Information Society Project.
 
 
 ### TBA
