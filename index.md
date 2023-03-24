@@ -4,7 +4,7 @@ This is bi-weekly seminar series from Ph.D. & Post-doctoral students. The idea i
 
 **[Meeting Room](https://boun-edu-tr.zoom.us/j/99847037864?pwd=M3FublJnSWNyaVlVMjdJbGhFN0QvQT09) & Passcode: 998529**
 
-Join our [Slack](https://join.slack.com/t/aitalksworkspace/shared_invite/zt-1mhxw8x1e-MiKz_oyzV0xhBQVt8f~JGw)
+Join our [Slack](https://join.slack.com/t/aitalksworkspace/shared_invite/zt-1rv7uccwj-CfZ~YmHuQMe06EAWpgBL1w)
 
 Follow us from our [YouTube](https://www.youtube.com/channel/UCLMJDVgrLUB9qgge1glLKsQ) channel and [Twitter](https://twitter.com/CSandAI_Talks)
 
@@ -132,7 +132,7 @@ In this talk, we will first provide a background on how topic models work and ex
 
 ### Our meetings were postponed due to the Kahramanmaraş centered earthquakes that took place on February 6. 
 
-### 29 March 2023, 19.00 UTC+3h, [Poster](https://raw.githubusercontent.com/ai-talks-22/Talks/main/images/29Mar23.png)
+### 29 March 2023, 19.00 UTC+3h, [Poster](https://raw.githubusercontent.com/ai-talks-22/Talks/main/images/29Mar23updated.png)
 
 **_The Lawful Use of Data in Machine Learning_** by Osman Gazi Güçlütürk 
 
