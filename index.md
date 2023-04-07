@@ -2,7 +2,7 @@
 
 This is bi-weekly seminar series from Ph.D. & Post-doctoral students. The idea is to know about current topics in CS and AI. It is open to anyone who wants to listen to a presentation and give a speech in the world as far as there is a relation with CS. 
 
-**[Meeting Room](https://trendyol.zoom.us/j/87274069038?pwd=Q0s5YzdjSE80REw1dkQ1RDg2RjlsUT09) & Passcode: 484320**
+**[Meeting Room](https://trendyol.zoom.us/j/81174326026?pwd=d08zajhhdG1nVUZHbnNzcjJQb2pJQT09) & Passcode: 684860**
 
 Join our [Slack](https://join.slack.com/t/aitalksworkspace/shared_invite/zt-1rv7uccwj-CfZ~YmHuQMe06EAWpgBL1w)
 
