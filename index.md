@@ -141,4 +141,14 @@ In this talk, we will first provide a background on how topic models work and ex
 **Bio:** Osman Gazi Güçlütürk graduated from Galatasaray University, Faculty of Law in 2014. Subsequently, he obtained his M.A. from Ankara University, LL.M. from LSE, and MJur from the University of Oxford, in respective order. In 2021, Dr. Güçlütürk completed his Ph.D. from Galatasaray University with his thesis on the lawful use of data in machine learning-based artificial intelligence systems. Dr. Güçlütürk is currently working as an Assistant Professor of IT Law at Boğaziçi University, Faculty of Law, and as Visiting Fellow at Yale Law School’s Information Society Project.
 
 
+
+### 12 April 2023, 20.30 UTC+3h, [Poster](https://raw.githubusercontent.com/ai-talks-22/Talks/main/images/12Apr23.png)
+
+**_End-to-End Deep Multi-Modal Physiological Authentication With Smartbands_** by Deniz Ekiz
+
+**Abstract:** The number of fitness tracker users increases every day. Most of the applications require authentication to protect privacy-preserving operations. Biometrics such as face images have been used widely as login tokens, but they have privacy issues. Moreover, occlusions like face masks used for COVID may reduce their effectiveness. Smartbands can track heart rate, movements, and electrodermal activities. They have been widely used for health-related applications. The use of smartbands for authentication is in the exploratory stage. Physiological signals gathered from smartbands may be used to create a multi-modal and multi-sensor authentication system. The popularity of smartbands enables us to deploy new applications without a need to buy additional hardware.
+
+**Bio:** Deniz Ekiz received the M.S. degree from the Department of Computer Engineering, Boğaziçi University, Turkey, in 2019, where he is currently pursuing the Ph.D. degree. His research is focused on the applications of wearable technology.
+
+
 ### TBA
