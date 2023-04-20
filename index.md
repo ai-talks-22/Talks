@@ -151,4 +151,14 @@ In this talk, we will first provide a background on how topic models work and ex
 **Bio:** Deniz Ekiz received the M.S. degree from the Department of Computer Engineering, Boğaziçi University, Turkey, in 2019, where he is currently pursuing the Ph.D. degree. His research is focused on the applications of wearable technology.
 
 
+### 26 April 2023, 21.00 UTC+3h, [Poster](https://raw.githubusercontent.com/ai-talks-22/Talks/main/images/26Apr23.png)
+
+**_Conformational Variability Analysis of Biomolecules in Cryogenic Electron Tomography_** by Mohamad Harastani
+
+**Abstract:** Cryogenic electron tomography (cryo-ET) allows visualizing biomolecular complexes in situ. 3D data of biomolecules produced using cryo-ET are noisy, suffer from spacial anisotropies, and are difficult to analyze individually. Biomolecules are flexible, and analyzing their conformational variability is necessary to understand their functional mechanisms. Standard cryo-ET data processing methods average multiple copies of individual biomolecules to obtain structures at higher resolutions and consider that biomolecular conformational variability is discrete rather than continuous using the classification. In my thesis, I introduced the first two cryo-ET data processing methods for analyzing biomolecular continuous conformational variability, HEMNMA-3D and TomoFlow. HEMNMA-3D analyzes experimental data with the motion directions simulated by Normal Mode Analysis and allows the discovery of a large range of biomolecular motions. TomoFlow extracts motions from the data using the computer vision technique of Optical Flow. I showed the potential of these two methods on experimental cryo-ET data of nucleosome conformational variability in cells. The two methods show coherent results, shedding light on the conformational variability of nucleosomes in cells.
+
+**Bio:** Mohamad has obtained his Ph.D. in BioImage Informatics from Sorbonne University, Paris in 2022. He is currently a postdoctoral researcher at the IGBMC, Strasbourg. He works on developing image analysis methods and software to analyze biomedical images and address biological questions.
+
+
+
 ### TBA
