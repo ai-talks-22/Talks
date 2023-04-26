@@ -4,7 +4,7 @@ This is bi-weekly seminar series from Ph.D. & Post-doctoral students. The idea i
 
 **[Meeting Room](https://trendyol.zoom.us/j/85227388312?pwd=dmt6U1d0UGdpZHAxK2VCRnV4UjA3UT09) & Passcode: 318218**
 
-Join our [Slack](https://join.slack.com/t/aitalksworkspace/shared_invite/zt-1rv7uccwj-CfZ~YmHuQMe06EAWpgBL1w)
+Join our [Slack](https://join.slack.com/t/aitalksworkspace/shared_invite/zt-1u0z1xgf8-mtfKXEqQf28StS_qu0x7Bg)
 
 Follow us from our [YouTube](https://www.youtube.com/channel/UCLMJDVgrLUB9qgge1glLKsQ) channel and [Twitter](https://twitter.com/CSandAI_Talks)
 
