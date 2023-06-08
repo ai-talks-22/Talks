@@ -4,7 +4,9 @@ This is bi-weekly seminar series from Ph.D. & Post-doctoral students. The idea i
 
 **[Meeting Room](https://trendyol.zoom.us/j/85227388312?pwd=dmt6U1d0UGdpZHAxK2VCRnV4UjA3UT09) & Passcode: 318218**
 
-Join our [Slack](https://join.slack.com/t/aitalksworkspace/shared_invite/zt-1u0z1xgf8-mtfKXEqQf28StS_qu0x7Bg)
+Join our [Slack](https://join.slack.com/t/aitalksworkspace/shared_invite/zt-1wwgj06bo-wXiPILThqNMwxCgvBonHiA)
+
+
 
 Follow us from our [YouTube](https://www.youtube.com/channel/UCLMJDVgrLUB9qgge1glLKsQ) channel and [Twitter](https://twitter.com/CSandAI_Talks)
 
@@ -15,6 +17,16 @@ Follow us from our [YouTube](https://www.youtube.com/channel/UCLMJDVgrLUB9qgge1g
 Berrenur Saylam & Burak Suyunu
 
 ## Speakers and Topics
+
+
+### 15 June 2023, 19.00 UTC+3h, [Poster](https://raw.githubusercontent.com/ai-talks-22/Talks/main/images/15June23.png)
+
+**_Exploiting Clustering Patterns in Training Sets to Improve Classification Performance of Fully Connected Layers_** by Tolga Ahmet Kalaycı
+
+**Abstract:** Fully connected layers are used in almost all neural network architectures ranging from multilayer perceptrons to deep neural networks. These layers allow any kind of interaction between features without making any assumption about the structure of the data. Thanks to this property, with sufficient complexity, fully connected layers are expected to learn any kind of patterns. Practical experience has revealed that this theoretical potential is often not realized. Success of convolutional and recursive layers and findings of many studies have proven that the intrinsic structure of a dataset holds a great potential to improve the success of a classification problem. These layers basically take advantage of the inductive bias based on spatial or sequential structures of specific data types such as text, image, video etc. Also, leveraging clustering to explore and exploit this intrinsic structure in classification problems has been the subject of various studies. In this thesis, two different methods are proposed. Both methods aim to improve the classification performance of fully connected layers by feeding them a prior information about the clustering stucture embedded in the training dataset. The first method is a regularization method that focuses on improving the classification results in case of high variance. The second method concentrates on making better predictions in case of high bias.
+
+**Bio:** Tolga Ahmet Kalaycı  received his B.S. degree from the Department of Industrial Engineering, Istanbul Technical University in 2008, and M.Sc. degree from Department of Industrial Engineering, Boğaziçi University in 2011. He conducted his Ph.D. studies on fully connected layers and graduated in 2023 at Department of Industrial Engineering, Istanbul Technical University. In this presentation, he will be presenting two papers that cover his thesis researches.
+
 
 
 
